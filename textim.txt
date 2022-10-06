@@ -1,0 +1,14 @@
+ primeiro vão existir dois players,
+ um de cada lado da tela,
+ eles so podem se mover de sima para baixo,
+ cada um vai poder desparar tiros um contra o outro ,
+ se o tiro acertar o oponente o atirador ganha um ponto de vida,
+ e o atingido perde um ponto,
+ se um perder toda a sua vida ele e derrrotado,
+ eo oponente vence, 
+
+ logo os player efetuarão desparos enquanto desviam dos desparos do oponente para vencer o player precisa que o outro não tenha mais seus pontos causamdo a vitoria.
+
+    
+                             
+                                
